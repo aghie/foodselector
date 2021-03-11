@@ -1,0 +1,66 @@
+{
+    "restaurants": [
+    {
+        "name": "KohLanta",
+        "type": ["south-asiatic", "asiatic"],
+        "diet": ["carnivore","vegeterian", "vegan"]
+    },
+
+    {
+        "name": "Barlovento",
+        "type": ["asiatic","local","fusion"],
+        "diet": ["carnivore", "vegeterian"]
+    },
+
+    {
+        "name": "La Pepita Burger Bar",
+        "type": ["local", "hamburguers"],
+        "diet": ["carnivore","vegetarian"]
+    },
+
+    {
+        "name": "Goiko Grill",
+        "type": ["hamburguers","american"],
+        "diet": ["carnivore"]
+    },
+
+    {
+        "name": "Tasty Poke",
+        "type": ["hawaian", "healthy", "poke"],
+        "diet": ["carnivore", "vegeterian", "vegan"]
+    },
+
+    {
+        "name": "Nana Pancha",
+        "type": ["mexican"],
+        "diet": ["carnivore","gluten-free"]
+
+    },
+
+    {
+        "name": "Monkee Ramen Bar",
+        "type": ["asiatic","japanese","ramen"],
+        "diet": ["carnivore", "vegetarian"]
+    },
+
+    {
+        "name": "Mahalo",
+        "type": ["hawaian", "healthy", "poke"],
+        "diet": ["carnivore","vegetarian","vegan"]
+    },
+
+    {
+        "name": "Sibuya Urban Sushi Bar",
+        "type": ["japanese", "sushi", "asiatic"],
+        "diet": ["carnivore"]
+    },
+
+    {
+        "name": "Burritos Zicatela",
+        "type": ["spanish","burritos"],
+        "diet": ["carnivore"]
+    }
+
+    ]
+
+}
