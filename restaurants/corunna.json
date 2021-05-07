@@ -59,6 +59,30 @@
         "name": "Burritos Zicatela",
         "type": ["spanish","burritos"],
         "diet": ["carnivore"]
+    },
+
+    {
+	"name": "La Tavernetta",
+	"type": ["italian", "pizza"],
+	"diet": ["carnivore","vegetarian"]
+    },
+	
+    {
+	"name": "Vazva",
+	"type": ["mediterranean", "bagels", "healthy", "salads"],
+	"diet": ["carnivore","vegetarian"]
+    },
+	
+    {
+	"name": "Lois",
+	"type": ["spanish", "seafood"],
+	"diet": ["carnivore"]
+    },
+
+    {
+	"name": "Giova",
+	"type": ["pizza", "meat"],
+	"diet": ["carnivore", "vegetarian"]
     }
 
     ]
